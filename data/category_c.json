@@ -189,4 +189,136 @@
     "optionD": "",
     "correctAnswer": "A"
   }
+  {
+  "id": 80,
+  "category": "CATEGORY A",
+  "question": "Neste local, posso transitar a 50 km/h?",
+  "image": "images/q80.jpg",
+  "optionA": "Não, porque a sinalização vertical o proíbe.",
+  "optionB": "Sim, porque dentro das localidades esta é a velocidade mínima obrigatória.",
+  "optionC": "Sim, porque o pavimento está em boas condições.",
+  "optionD": "",
+  "correctAnswer": "C",
+  "difficulty": "EASY"
+},
+{
+  "id": 81,
+  "category": "CATEGORY A",
+  "question": "Em rotundas, pode circular na via mais à direita:",
+  "image": "images/q81.jpg",
+  "optionA": "Apenas para sair na primeira saída.",
+  "optionB": "Sempre, independentemente da saída.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+{
+  "id": 82,
+  "category": "CATEGORY A",
+  "question": "Numa ultrapassagem, o motorista deve voltar à sua via de trânsito:",
+  "image": "images/q82.jpg",
+  "optionA": "Após aumentar a velocidade.",
+  "optionB": "Logo após concluir a manobra.",
+  "optionC": "Assim que o veículo ultrapassado fique visível no retrovisor.",
+  "optionD": "",
+  "correctAnswer": "C",
+  "difficulty": "EASY"
+},
+{
+  "id": 83,
+  "category": "CATEGORY A",
+  "question": "É permitido ultrapassar em curvas com visibilidade reduzida?",
+  "image": "images/q83.jpg",
+  "optionA": "Sim, é permitido.",
+  "optionB": "É proibido ultrapassar em curvas com visibilidade reduzida.",
+  "optionC": "Passar rapidamente antes que outro veículo chegue.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 84,
+  "category": "CATEGORY A",
+  "question": "Os motoristas TVDE podem recolher passageiros diretamente na via pública, sem recurso a plataforma eletrónica?",
+  "image": "images/q84.jpg",
+  "optionA": "Sim.",
+  "optionB": "Não.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 85,
+  "category": "CATEGORY A",
+  "question": "Uma das funções importantes da comunicação é transmitir conhecimento.",
+  "image": "images/q85.jpg",
+  "optionA": "Verdadeiro.",
+  "optionB": "Falso.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+{
+  "id": 86,
+  "category": "CATEGORY A",
+  "question": "O que é a comunicação verbal?",
+  "image": "images/q86.jpg",
+  "optionA": "Usar gestos e sinais para comunicar.",
+  "optionB": "Falar ou escrever para transmitir uma mensagem.",
+  "optionC": "Ficar em silêncio.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 87,
+  "category": "CATEGORY A",
+  "question": "Veículos usados no serviço TVDE podem ter matrícula estrangeira, desde que sejam autorizados pelo IMT.",
+  "image": "images/q87.jpg",
+  "optionA": "Sim.",
+  "optionB": "Não.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 88,
+  "category": "CATEGORY A",
+  "question": "O serviço de TVDE só pode ser contratado através de plataforma eletrónica.",
+  "image": "images/q88.jpg",
+  "optionA": "Verdadeiro.",
+  "optionB": "Falso.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+},
+{
+  "id": 89,
+  "category": "CATEGORY A",
+  "question": "O que deve informar ao ligar para o 112, em caso de acidente?",
+  "image": "images/q89.jpg",
+  "optionA": "Apenas o tipo de acidente.",
+  "optionB": "Localização exata, tipo de acidente e número de vítimas.",
+  "optionC": "A cor dos veículos envolvidos no acidente.",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+{
+  "id": 90,
+  "category": "CATEGORY A",
+  "question": "A distância de travagem varia com:",
+  "image": "images/q90.jpg",
+  "optionA": "As condições atmosféricas.",
+  "optionB": "A largura da via.",
+  "optionC": "A sinalização vertical existente no local.",
+  "optionD": "",
+  "correctAnswer": "A",
+  "difficulty": "EASY"
+}
 ]
