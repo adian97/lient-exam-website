@@ -289,4 +289,16 @@
     "optionD": "",
     "correctAnswer": "C"
   }
+  {
+    "id": 73,
+    "category": "CATEGORY A",
+    "question": "O que deve fazer perante o sinal?",
+    "image": "",
+    "optionA": "Ceder a passagem a todos os veículos.",
+    "optionB": "Avançar em primeiro lugar.",
+    "optionC": "Manter a velocidade.",
+    "optionD": "",
+    "correctAnswer": "A",
+    "difficulty": "EASY"
+  }
 ]
