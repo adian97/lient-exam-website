@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Exam Result</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="category-top">
+
+    <div class="category-logo"
+         onclick="window.location.href='main.html'"
+         style="cursor:pointer;">
+
+        Driving <span>Exam</span>
+
+    </div>
+
+</div>
+
+<div class="result-page">
+
+    <div class="result-header">
+
+        <div class="result-icon">
+            ✔
+        </div>
+
+        <h1>Exam Completed!</h1>
+
+        <p>
+            Great job! You have successfully completed the exam.
+        </p>
+
+    </div>
+
+    <div class="result-card">
+
+        <div class="score-circle">
+            <div>
+                <h2 id="scoreText">0%</h2>
+                <p>Your Score</p>
+            </div>
+        </div>
+
+        <div class="result-info">
+
+    <h1 id="resultStatus">
+        PASSED
+    </h1>
+
+    <p id="resultMessage">
+        Congratulations! You have passed the exam.
+    </p>
+
+    <p class="pass-mark">
+        Pass Mark: 27 / 30
+    </p>
+
+    <div class="result-stats">
+
+                <div>
+                    <h2 id="correctText">0</h2>
+                    <p>Correct Answers</p>
+                </div>
+
+                <div>
+                    <h2 id="wrongText">0</h2>
+                    <p>Wrong Answers</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="performance-card">
+
+        <h2>Performance Summary</h2>
+
+        <div class="performance-grid">
+
+            <div class="performance-box">
+                <h1 id="correctBox">0</h1>
+                <p>Correct</p>
+            </div>
+
+            <div class="performance-box">
+                <h1 id="wrongBox">0</h1>
+                <p>Incorrect</p>
+            </div>
+
+            <div class="performance-box">
+        <h1 id="unansweredBox">0</h1>
+        <p>Unanswered</p>
+    </div>
+
+            <div class="performance-box">
+                <h1 id="accuracyBox">0%</h1>
+                <p>Accuracy</p>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="result-buttons">
+
+        <button onclick="reviewAnswers()">
+            Review Answers
+        </button>
+
+        <button onclick="tryAgain()">
+            Try Again
+        </button>
+
+        <button onclick="goHome()">
+            Back Home
+        </button>
+
+    </div>
+
+</div>
+
+<script src="js/result.js"></script>
+
+</body>
+</html>

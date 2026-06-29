@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+    <head> <meta charset="UTF-8"> <title>Exame IMT</title> <link rel="stylesheet" href="css/style.css"> </head>
+<body class="exam-body">
+
+<div class="exam-container">
+
+    <!-- Top Bar -->
+    
+
+    <!-- Question Section -->
+    <div class="question-section">
+
+        <!-- Image -->
+        <div class="image-box">
+            <img id="questionImage" src="images/a/q1.jpg">
+        </div>
+
+        <!-- Question -->
+        <div class="question-box">
+            <div class="question-number">
+                <span id="questionNo">1</span>
+            </div>
+
+            <div class="question-text" id="questionText">
+                Question text here...
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Answers -->
+    <div id="answersContainer"></div>
+
+    <!-- Bottom Navigation -->
+    <div class="bottom-navigation">
+
+    <button class="nav-arrow"
+            onclick="previousQuestion()">
+    </button>
+
+    <div id="questionNumbers"></div>
+
+    <button class="nav-arrow"
+            onclick="nextQuestion()">
+    </button>
+
+</div>
+
+<button id="finishBtn"
+        onclick="finishExam()">
+    Finish Exam
+</button>
+
+</div>
+
+<script>
+function scaleExam() {
+    const exam = document.querySelector('.exam-container');
+
+    const scale = Math.min(
+        window.innerWidth / 1366,
+        window.innerHeight / 768
+    );
+
+    exam.style.transform = `scale(${scale})`;
+}
+
+window.addEventListener('resize', scaleExam);
+scaleExam();
+</script>
+
+<script src="js/exam.js"></script>
+
+</body>
+</html>

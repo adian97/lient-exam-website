@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select Category</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<body class="category-body">
+
+<div class="category-page">
+
+    <!-- TOP BAR -->
+   <div class="category-top">
+
+    <div class="category-logo"
+         onclick="window.location.href='main.html'"
+         style="cursor:pointer;">
+
+        🚗 Driving <span>Exam</span>
+
+    </div>
+
+</div>
+
+    <!-- HEADER -->
+    <div class="category-header">
+
+        <h1>
+            Select Your Driving Category
+        </h1>
+
+        <p>
+            Choose a driving license category to start practicing
+            <br>
+            and test your knowledge.
+        </p>
+
+    </div>
+
+    <!-- CATEGORY CARDS -->
+    <div class="category-cards">
+
+        <!-- CATEGORY A -->
+        <div class="category-card">
+
+            <img
+                src="images/category_a.png"
+                class="category-image">
+
+            <h2 class="category-title green">
+                Category A
+            </h2>
+
+            <p class="category-desc">
+                Motorcycles and two-wheelers
+                with or without gear.
+            </p>
+
+            <button
+                class="category-btn green-btn"
+                onclick="selectCategory('a')">
+
+                Start Practice →
+            </button>
+
+        </div>
+
+        <!-- CATEGORY B -->
+        <div class="category-card">
+
+            <img
+                src="images/category_b.png"
+                class="category-image">
+
+            <h2 class="category-title blue">
+                Category B
+            </h2>
+
+            <p class="category-desc">
+                Cars and light vehicles
+                for personal use.
+            </p>
+
+            <button
+                class="category-btn blue-btn"
+                onclick="selectCategory('b')">
+
+                Start Practice →
+            </button>
+
+        </div>
+
+        <!-- CATEGORY C -->
+        <div class="category-card">
+
+            <img
+                src="images/category_c.png"
+                class="category-image">
+
+            <h2 class="category-title purple">
+                Category C
+            </h2>
+
+            <p class="category-desc">
+                Heavy vehicles and trucks
+                for commercial use.
+            </p>
+
+            <button
+                class="category-btn purple-btn"
+                onclick="selectCategory('c')">
+
+                Start Practice →
+            </button>
+
+        </div>
+
+    </div>
+
+    <!-- BOTTOM CARD -->
+    <div class="category-info">
+
+        <div class="category-info-icon">
+            🛡
+        </div>
+
+        <div>
+            <h3>Choose Carefully</h3>
+
+            <p>
+                Select the correct category that matches
+                the license you want to apply for.
+            </p>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="js/category.js"></script>
+
+</body>
+
+</body>
+</html>

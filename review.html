@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Review Answers</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="category-top">
+
+    <div class="category-logo"
+         onclick="window.location.href='main.html'"
+         style="cursor:pointer;">
+
+        Driving <span>Exam</span>
+
+    </div>
+
+</div>
+
+<div class="review-page">
+
+    <h1 class="review-title">
+        Review Answers
+    </h1>
+
+    <div class="review-container">
+
+        <!-- Left Numbers -->
+        <div class="review-sidebar">
+
+            <div id="reviewNumbers"></div>
+
+        </div>
+
+        <!-- Right Question -->
+        <div class="review-content">
+
+            <h2>
+                Question
+                <span id="reviewQuestionNo">
+                    1
+                </span>
+            </h2>
+
+            <div class="review-question-box">
+
+                <div class="review-image-box">
+                    <img id="reviewImage">
+                </div>
+
+                <div class="review-text-box">
+
+                    <h3 id="reviewQuestion">
+                    </h3>
+
+                    <div id="reviewOptions">
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="review-buttons">
+
+                <button
+                    onclick="previousReviewQuestion()">
+                    Previous
+                </button>
+
+                <button
+                    onclick="nextReviewQuestion()">
+                    Next
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="js/review.js"></script>
+
+</body>
+</html>
