@@ -239,4 +239,76 @@
     "optionD": "",
     "correctAnswer": "C"
   }
+   {
+    "id": 74,
+    "category": "CATEGORY A",
+    "question": "Qual a velocidade máxima permitida a um automóvel ligeiro dentro de uma localidade?",
+    "image": "images/a/q74.jpg",
+    "optionA": "50 km/h",
+    "optionB": "60 km/h",
+    "optionC": "90 km/h",
+    "optionD": "",
+    "correctAnswer": "A",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 75,
+    "category": "CATEGORY A",
+    "question": "O que deve respeitar em primeiro lugar?",
+    "image": "images/a/q75.jpg",
+    "optionA": "Os sinais luminosos.",
+    "optionB": "As marcas rodoviárias.",
+    "optionC": "As ordens da polícia.",
+    "optionD": "",
+    "correctAnswer": "C",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 76,
+    "category": "CATEGORY A",
+    "question": "Na comunicação com os passageiros é importante:",
+    "image": "images/a/q76.jpg",
+    "optionA": "Fazer perguntas durante toda a conversa.",
+    "optionB": "Ouvir para compreender.",
+    "optionC": "Falar rapidamente para terminar a conversa.",
+    "optionD": "",
+    "correctAnswer": "B",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 77,
+    "category": "CATEGORY A",
+    "question": "Em caso de queimadura deve:",
+    "image": "images/a/q77.jpg",
+    "optionA": "Lavar a zona afetada com água quente.",
+    "optionB": "Furar as bolhas existentes.",
+    "optionC": "Evitar tocar diretamente na área queimada.",
+    "optionD": "",
+    "correctAnswer": "C",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 78,
+    "category": "CATEGORY A",
+    "question": "Uma condução defensiva é:",
+    "image": "images/a/q78.jpg",
+    "optionA": "Estar atento aos outros condutores, antecipando situações de risco.",
+    "optionB": "Conduzir sempre a alta velocidade.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 79,
+    "category": "CATEGORY A",
+    "question": "Para sinalizar corretamente o local de um acidente, o motorista deve:",
+    "image": "images/a/q79.jpg",
+    "optionA": "Ligar as luzes de perigo, vestir o colete refletor e colocar o triângulo de pré-sinalização de perigo.",
+    "optionB": "Abandonar o local do acidente.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A",
+    "difficulty": "EASY"
+  }
 ]
