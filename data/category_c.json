@@ -1,0 +1,192 @@
+[
+  {
+    "id": 54,
+    "question": "Um veículo usado no serviço TVDE deve passar por uma inspeção técnica:",
+    "image": "images/a/q1.jpg",
+    "optionA": "1 ano após a matrícula e, depois, todos os anos.",
+    "optionB": "2 anos após a matrícula e, depois, de dois em dois anos.",
+    "optionC": "No prazo estipulado pelo IMT.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 55,
+    "question": "Quando a intensidade do trânsito aumenta, a velocidade deve:",
+    "image": "images/a/q2.jpg",
+    "optionA": "Diminuir.",
+    "optionB": "Aumentar.",
+    "optionC": "Ser mantida.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 56,
+    "question": "A distância de travagem varia com:",
+    "image": "images/a/q3.jpg",
+    "optionA": "As condições atmosféricas.",
+    "optionB": "A largura da via.",
+    "optionC": "A sinalização vertical existente no local.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 57,
+    "question": "Um motorista tem um comportamento profissional quando:",
+    "image": "images/a/q4.jpg",
+    "optionA": "É apressado e impaciente durante a condução.",
+    "optionB": "Ignora os pedidos dos passageiros.",
+    "optionC": "É educado, respeita os passageiros e atende às suas necessidades.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 58,
+    "question": "O processo de comunicação requer, no mínimo:",
+    "image": "images/a/q5.jpg",
+    "optionA": "Um emissor.",
+    "optionB": "Um recetor.",
+    "optionC": "Um emissor e um recetor.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 59,
+    "question": "O sinal indica:",
+    "image": "images/a/q6.jpg",
+    "optionA": "Passagem de peões.",
+    "optionB": "A existência de um túnel.",
+    "optionC": "Entrada num parque de estacionamento.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "question": "Ao conduzir à noite, o motorista deve:",
+    "image": "images/a/q7.jpg",
+    "optionA": "Reduzir a velocidade apenas nas curvas.",
+    "optionB": "Manter os máximos ligados em todas as situações.",
+    "optionC": "Ver e ser visto, usando corretamente as luzes.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 61,
+    "question": "Uma das funções importantes da comunicação é transmitir conhecimento.",
+    "image": "images/a/q8.jpg",
+    "optionA": "Verdadeiro",
+    "optionB": "Falso",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 62,
+    "question": "Qual a velocidade máxima permitida a um automóvel ligeiro dentro de uma localidade?",
+    "image": "images/a/q9.jpg",
+    "optionA": "50 km/h",
+    "optionB": "60 km/h",
+    "optionC": "90 km/h",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 63,
+    "question": "O que deve fazer perante o sinal?",
+    "image": "images/a/q10.jpg",
+    "optionA": "Ceder a passagem a todos os veículos.",
+    "optionB": "Avançar em primeiro lugar.",
+    "optionC": "Manter a velocidade.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 64,
+    "question": "O que deve respeitar em primeiro lugar?",
+    "image": "images/a/q11.jpg",
+    "optionA": "Os sinais luminosos.",
+    "optionB": "As marcas rodoviárias.",
+    "optionC": "As ordens da polícia.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Em caso de queimadura deve:",
+    "image": "images/a/q12.jpg",
+    "optionA": "Lavar a zona afetada com água quente.",
+    "optionB": "Furar as bolhas existentes.",
+    "optionC": "Evitar tocar diretamente na área queimada.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 66,
+    "question": "Uma condução defensiva é:",
+    "image": "images/a/q13.jpg",
+    "optionA": "Estar atento aos outros condutores, antecipando situações de risco.",
+    "optionB": "Conduzir sempre a alta velocidade.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 67,
+    "question": "Para sinalizar corretamente o local de um acidente, o motorista deve:",
+    "image": "images/a/q14.jpg",
+    "optionA": "Ligar as luzes de perigo, vestir o colete refletor e colocar o triângulo de pré-sinalização de perigo.",
+    "optionB": "Abandonar o local do acidente.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 68,
+    "question": "Neste local, posso transitar a 50 km/h?",
+    "image": "images/a/q15.jpg",
+    "optionA": "Não, porque a sinalização vertical o proíbe.",
+    "optionB": "Sim, porque dentro das localidades esta é a velocidade mínima obrigatória.",
+    "optionC": "Sim, porque o pavimento está em boas condições.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 69,
+    "question": "Em rotundas, pode circular na via mais à direita:",
+    "image": "images/a/q16.jpg",
+    "optionA": "Apenas para sair na primeira saída.",
+    "optionB": "Sempre, independentemente da saída.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 70,
+    "question": "Os motoristas TVDE podem recolher passageiros diretamente na via pública, sem recurso a plataforma eletrónica?",
+    "image": "images/a/q17.jpg",
+    "optionA": "Sim.",
+    "optionB": "Não.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 71,
+    "question": "Veículos usados no serviço TVDE podem ter matrícula estrangeira, desde que sejam autorizados pelo IMT.",
+    "image": "images/a/q18.jpg",
+    "optionA": "Sim.",
+    "optionB": "Não.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 72,
+    "question": "O serviço de TVDE só pode ser contratado através de plataforma eletrónica.",
+    "image": "images/a/q19.jpg",
+    "optionA": "Verdadeiro",
+    "optionB": "Falso.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
+  }
+]

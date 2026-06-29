@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "question": "A sinalização existente obriga o motorista a seguir em frente?",
+    "image": "images/a/q1.jpg",
+    "optionA": "Sim.",
+    "optionB": "Não.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Os sinais de proibição indicam:",
+    "image": "images/a/q2.jpg",
+    "optionA": "Informações úteis.",
+    "optionB": "Obrigações a cumprir.",
+    "optionC": "Restrições ou limites.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Quando o piso está escorregadio, o motorista deve:",
+    "image": "images/a/q3.jpg",
+    "optionA": "Travar bruscamente.",
+    "optionB": "Reduzir a velocidade e evitar manobras bruscas.",
+    "optionC": "Aumentar a velocidade.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "question": "A condução sob a influência do álcool provoca no condutor a diminuição dos reflexos.",
+    "image": "images/a/q4.jpg",
+    "optionA": "Falso",
+    "optionB": "Verdadeiro",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "question": "No próximo entroncamento, o motorista deve ceder a passagem?",
+    "image": "images/a/q5.jpg",
+    "optionA": "Sim.",
+    "optionB": "Não.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Quem deve avançar primeiro num cruzamento sem sinalização?",
+    "image": "images/a/q6.jpg",
+    "optionA": "O veículo mais rápido.",
+    "optionB": "O veículo que circula pela esquerda.",
+    "optionC": "O veículo que circula pela direita.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Conduzir com chuva tem como resultado:",
+    "image": "images/a/q7.jpg",
+    "optionA": "Maior aderência dos pneus ao piso.",
+    "optionB": "A redução da visibilidade.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "question": "O que é obrigatório para o transporte de passageiros com mobilidade reduzida?",
+    "image": "images/a/q8.jpg",
+    "optionA": "Um veículo com capacidade para transportar cadeiras de rodas.",
+    "optionB": "Um veículo elétrico ou híbrido.",
+    "optionC": "Um motorista com formação adicional.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Os serviços de TVDE podem ser pagos em dinheiro ou cartão de crédito.",
+    "image": "images/a/q9.jpg",
+    "optionA": "Verdadeiro",
+    "optionB": "Falso",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Qual é a idade máxima permitida para veículos utilizados no serviço TVDE?",
+    "image": "images/a/q10.jpg",
+    "optionA": "5 anos",
+    "optionB": "10 anos",
+    "optionC": "7 anos",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "question": "O tempo máximo permitido para condução de motoristas TVDE é de 10 horas num período de 24 horas.",
+    "image": "images/a/q11.jpg",
+    "optionA": "Verdadeiro",
+    "optionB": "Falso",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Quando se pode dizer que a comunicação tem sucesso?",
+    "image": "images/a/q12.jpg",
+    "optionA": "Quando se fala muito rápido.",
+    "optionB": "Quando a mensagem é compreendida.",
+    "optionC": "Quando ninguém responde.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 13,
+    "question": "O motorista deve sinalizar a saída de uma rotunda:",
+    "image": "images/a/q13.jpg",
+    "optionA": "Ao aproximar-se da saída.",
+    "optionB": "Não é necessário sinalizar.",
+    "optionC": "Apenas se houver trânsito intenso.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 14,
+    "question": "A velocidade deve ser ajustada:",
+    "image": "images/a/q14.jpg",
+    "optionA": "Apenas ao limite máximo permitido.",
+    "optionB": "Às condições da estrada e do trânsito.",
+    "optionC": "À vontade do condutor.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Um motorista de TVDE pode conduzir com uma taxa de alcoolemia de 0,2 g/l.",
+    "image": "images/a/q15.jpg",
+    "optionA": "Sim, se estiver em boas condições físicas.",
+    "optionB": "Não.",
+    "optionC": "Sim, porque é um valor permitido.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 16,
+    "question": "O que deve fazer ao conduzir em zonas de vento forte?",
+    "image": "images/a/q16.jpg",
+    "optionA": "Virar o volante no sentido contrário ao do vento.",
+    "optionB": "Aumentar a velocidade para atravessar a zona rapidamente.",
+    "optionC": "Reduzir a velocidade e manter firme o controlo do volante.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Para se tornar motorista TVDE, tem de ter carta de condução da categoria B há mais de:",
+    "image": "images/a/q17.jpg",
+    "optionA": "1 ano.",
+    "optionB": "2 anos.",
+    "optionC": "3 anos.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 18,
+    "question": "O que deve fazer se houver um incêndio no motor do veículo?",
+    "image": "images/a/q18.jpg",
+    "optionA": "Abrir o capot rapidamente e apagar as chamas com água.",
+    "optionB": "Usar o extintor e apontar à base das chamas.",
+    "optionC": "Esperar que o fogo se apague.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 19,
+    "question": "O que deve fazer após utilizar um extintor?",
+    "image": "images/a/q19.jpg",
+    "optionA": "Recarregá-lo ou substituí-lo por um novo.",
+    "optionB": "Guardá-lo no veículo, para a próxima utilização.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Quando deve usar o colete retrorrefletor?",
+    "image": "images/a/q20.jpg",
+    "optionA": "Sempre que sair do veículo para sinalizar ou reparar.",
+    "optionB": "Somente em locais com pouca visibilidade.",
+    "optionC": "Apenas em estradas movimentadas.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 21,
+    "question": "No primeiro contacto com uma vítima de um acidente, o que deve fazer primeiro?",
+    "image": "images/a/q21.jpg",
+    "optionA": "Verificar se respira e se tem pulsação.",
+    "optionB": "Retirar a vítima do veículo imediatamente.",
+    "optionC": "Procurar por ferimentos visíveis.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Em caso de acidente com o seu veículo, deve:",
+    "image": "images/a/q22.jpg",
+    "optionA": "Sair rapidamente do veículo sem avisar outros condutores.",
+    "optionB": "Garantir a segurança no local, sinalizar e ligar para o 112.",
+    "optionC": "Resolver a situação sozinho, sem pedir ajuda.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Um motorista deve comportar-se de forma?",
+    "image": "images/a/q23.jpg",
+    "optionA": "Agressiva.",
+    "optionB": "Passiva.",
+    "optionC": "Assertiva.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Na comunicação com os passageiros é importante:",
+    "image": "images/a/q24.jpg",
+    "optionA": "Fazer perguntas durante toda a conversa.",
+    "optionB": "Ouvir para compreender.",
+    "optionC": "Falar rapidamente para terminar a conversa.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Quando se pode dizer que a comunicação tem sucesso?",
+    "image": "images/a/q25.jpg",
+    "optionA": "Quando se fala muito rápido.",
+    "optionB": "Quando a mensagem é compreendida.",
+    "optionC": "Quando ninguém responde.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Chamamos feedback:",
+    "image": "images/a/q26.jpg",
+    "optionA": "À resposta ou reação da pessoa à mensagem.",
+    "optionB": "Ao início de uma conversa.",
+    "optionC": "À forma como utilizamos o tom de voz.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Quando é permitido ultrapassar pela direita?",
+    "image": "images/a/q27.jpg",
+    "optionA": "Quando o veículo da frente circula lentamente.",
+    "optionB": "Quando o veículo da frente sinaliza que vai virar à esquerda.",
+    "optionC": "Em qualquer situação.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "question": "O que deve fazer antes de iniciar uma ultrapassagem?",
+    "image": "images/a/q28.jpg",
+    "optionA": "Verificar se há espaço suficiente e visibilidade.",
+    "optionB": "Aumentar a velocidade.",
+    "optionC": "Aproximar-se ao máximo do veículo da frente.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Ao circular numa rotunda, o motorista deve saber que:",
+    "image": "images/a/q29.jpg",
+    "optionA": "Todos os veículos entram ao mesmo tempo.",
+    "optionB": "Os veículos em serviço de urgência devem ceder a passagem aos veículos que circulam na rotunda.",
+    "optionC": "Deve ceder a passagem aos veículos em serviço de urgência que entram na rotunda.",
+    "optionD": "",
+    "correctAnswer": "C"
+  }
+]
