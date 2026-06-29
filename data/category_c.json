@@ -191,7 +191,6 @@
   },
   {
   "id": 80,
-  "category": "CATEGORY A",
   "question": "Neste local, posso transitar a 50 km/h?",
   "image": "images/a/q80.jpg",
   "optionA": "Não, porque a sinalização vertical o proíbe.",
@@ -203,7 +202,6 @@
 },
 {
   "id": 81,
-  "category": "CATEGORY A",
   "question": "Em rotundas, pode circular na via mais à direita:",
   "image": "images/a/q81.jpg",
   "optionA": "Apenas para sair na primeira saída.",
@@ -215,7 +213,6 @@
 },
 {
   "id": 82,
-  "category": "CATEGORY A",
   "question": "Numa ultrapassagem, o motorista deve voltar à sua via de trânsito:",
   "image": "images/a/q82.jpg",
   "optionA": "Após aumentar a velocidade.",
@@ -227,7 +224,6 @@
 },
 {
   "id": 83,
-  "category": "CATEGORY A",
   "question": "É permitido ultrapassar em curvas com visibilidade reduzida?",
   "image": "images/a/q83.jpg",
   "optionA": "Sim, é permitido.",
@@ -239,7 +235,6 @@
 },
 {
   "id": 84,
-  "category": "CATEGORY A",
   "question": "Os motoristas TVDE podem recolher passageiros diretamente na via pública, sem recurso a plataforma eletrónica?",
   "image": "images/a/q84.jpg",
   "optionA": "Sim.",
@@ -251,7 +246,6 @@
 },
 {
   "id": 85,
-  "category": "CATEGORY A",
   "question": "Uma das funções importantes da comunicação é transmitir conhecimento.",
   "image": "images/a/q85.jpg",
   "optionA": "Verdadeiro.",
@@ -263,7 +257,6 @@
 },
 {
   "id": 86,
-  "category": "CATEGORY A",
   "question": "O que é a comunicação verbal?",
   "image": "images/a/q86.jpg",
   "optionA": "Usar gestos e sinais para comunicar.",
@@ -275,7 +268,6 @@
 },
 {
   "id": 87,
-  "category": "CATEGORY A",
   "question": "Veículos usados no serviço TVDE podem ter matrícula estrangeira, desde que sejam autorizados pelo IMT.",
   "image": "images/a/q87.jpg",
   "optionA": "Sim.",
@@ -287,7 +279,6 @@
 },
 {
   "id": 88,
-  "category": "CATEGORY A",
   "question": "O serviço de TVDE só pode ser contratado através de plataforma eletrónica.",
   "image": "images/a/q88.jpg",
   "optionA": "Verdadeiro.",
@@ -299,7 +290,6 @@
 },
 {
   "id": 89,
-  "category": "CATEGORY A",
   "question": "O que deve informar ao ligar para o 112, em caso de acidente?",
   "image": "images/a/q89.jpg",
   "optionA": "Apenas o tipo de acidente.",
@@ -311,7 +301,6 @@
 },
 {
   "id": 90,
-  "category": "CATEGORY A",
   "question": "A distância de travagem varia com:",
   "image": "images/a/q90.jpg",
   "optionA": "As condições atmosféricas.",
