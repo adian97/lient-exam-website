@@ -480,11 +480,11 @@ header{
 #finishBtn{
     position:absolute;
     left:50%;
-    bottom:80px;
+    bottom:150px;
     transform:translateX(-50%);
 
     width:100px;
-    height:50px;
+    height:80px;
 
     border:none;
     border-radius:6px;
