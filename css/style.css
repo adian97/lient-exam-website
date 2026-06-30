@@ -331,7 +331,7 @@ header{
 ========================== */
 
 .bottom-navigation{
-    height:80px;
+    height:100px;
     padding:30px 20px 5px;
     display:flex;
     justify-content:center;
