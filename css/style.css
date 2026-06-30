@@ -721,8 +721,9 @@ header{
     gap:30px;
     margin-top:30px;
 }
+
 #reviewQuestion{
-    font-size:30px;
+    font-size:36px;
     font-weight:700;
     line-height:1.5;
     color:#111;
