@@ -480,11 +480,11 @@ header{
 #finishBtn{
     position:absolute;
     left:50%;
-    bottom:60px;
+    bottom:50px;
     transform:translateX(-50%);
 
     width:100px;
-    height:50px;
+    height:45px;
 
     border:none;
     border-radius:6px;
@@ -492,7 +492,7 @@ header{
     background:#69b52c;
     color:white;
 
-    font-size:12px;
+    font-size:15px;
     font-weight:bold;
     cursor:pointer;
 }
