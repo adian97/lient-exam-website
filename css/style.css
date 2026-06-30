@@ -480,7 +480,7 @@ header{
 #finishBtn{
     position:absolute;
     left:50%;
-    bottom:70px;
+    bottom:60px;
     transform:translateX(-50%);
 
     width:100px;
