@@ -349,7 +349,7 @@ header{
     max-width:850px;
     scroll-behavior:smooth;
     scrollbar-width:none;
-    padding-bottom:30px;
+    padding-bottom:10px;
 }
 
 #questionNumbers::-webkit-scrollbar{
