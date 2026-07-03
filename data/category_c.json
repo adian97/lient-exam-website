@@ -141,13 +141,13 @@
   },
   {
     "id": 68,
-    "question": "Neste local, posso transitar a 50 km/h?",
+    "question": "A que distância deve colocar o triângulo de pré-sinalização de perigo em caso de avaria?",
     "image": "images/a/q15.jpg",
-    "optionA": "Não, porque a sinalização vertical o proíbe.",
-    "optionB": "Sim, porque dentro das localidades esta é a velocidade mínima obrigatória.",
-    "optionC": "Sim, porque o pavimento está em boas condições.",
+    "optionA": "Pelo menos 10 metros.",
+    "optionB": "Pelo menos 50 metros.",
+    "optionC": "Pelo menos 30 metros.",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
   {
     "id": 69,
