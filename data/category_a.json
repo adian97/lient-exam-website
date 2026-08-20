@@ -292,13 +292,13 @@
   {
     "id": 73,
     "category": "CATEGORY A",
-    "question": "O que deve fazer perante o sinal?",
+    "question": "O que deve fazer para diminuir as emissões de poluentes?",
     "image": "images/a/q103.jpg",
-    "optionA": "Ceder a passagem a todos os veículos.",
-    "optionB": "Avançar em primeiro lugar.",
-    "optionC": "Manter a velocidade.",
+    "optionA": "Conduzir com o motor a altas rotações.",
+    "optionB": "Fazer a manutenção regular do veículo.",
+    "optionC": "Andar sempre com o ar condicionado ligado.",
     "optionD": "",
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "difficulty": "EASY"
   }
 ]
