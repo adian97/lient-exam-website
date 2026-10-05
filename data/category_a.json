@@ -450,15 +450,5 @@
     "optionC": "Manter a velocidade máxima para chegar rapidamente ao destino.",
     "optionD": "",
     "correctAnswer": "B"
-  },
-  {
-    "id": 45,
-    "question": "É proibido ultrapassar:",
-    "image": "images/a/q16.jpg",
-    "optionA": "Em lombas ou cruzamentos sem visibilidade.",
-    "optionB": "Quando o veículo é lento.",
-    "optionC": "Em autoestradas.",
-    "optionD": "",
-    "correctAnswer": "A"
   }
 ]
