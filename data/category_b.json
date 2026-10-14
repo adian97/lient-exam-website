@@ -504,6 +504,51 @@
   "optionD": "",
   "correctAnswer": "B",
   "difficulty": "EASY"
+},
+   {
+  "id": 94,
+  "question": "Perante uma vítima de acidente o procedimento adequado é:",
+  "image": "images/a/q113.jpg",
+  "optionA": "Remover de imediato a vítima do veículo.",
+  "optionB": "Não movimentar a vítima, exceto se existir perigo iminente de incêndio, explosão ou qualquer outra situação que ponha em risco a vida da vítima.",
+  "optionC": "Não retirar em caso algum a vítima do veículo.",
+  "optionD": "Ajudar a vítima a sair do veículo.",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+   {
+  "id": 95,
+  "question": "Fogo é uma reação química:",
+  "image": "images/a/q113.jpg",
+  "optionA": "Que ocorre num determinado local, sempre que o calor seja em excesso.",
+  "optionB": "Entre o combustível e o oxigénio do ar (comburente), face a uma fonte de calor.",
+  "optionC": "Provocada por uma fonte de energia.",
+  "optionD": "Que ocorre em determinados materiais provocado pelo aumento da temperatura.",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+   {
+  "id": 96,
+  "question": "É permitido ultrapassar neste local?",
+  "image": "images/a/q119.jpg",
+  "optionA": "Sim.",
+  "optionB": "Não.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
+},
+   
+   {
+  "id": 97,
+  "question": "Pode ultrapassar o veículo que circula à frente?",
+  "image": "images/a/q118.jpg",
+  "optionA": "Sim, a manobra é permitida.",
+  "optionB": "Não, devo aguardar que o veículo termine a manobra.",
+  "optionC": "",
+  "optionD": "",
+  "correctAnswer": "B",
+  "difficulty": "EASY"
 }
 ]
 
