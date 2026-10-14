@@ -471,6 +471,46 @@
     "optionC": "Em autoestradas.",
     "optionD": "",
     "correctAnswer": "A"
+  },
+   {
+    "id": 91,
+    "question": "Portuguese: Estou a ser correctamente ultrapassado?",
+    "image": "images/a/q111.jpg",
+    "optionA": "Sim, estou.",
+    "optionB": "Não, porque a realização da manobra pode provocar embaraço para o trânsito.",
+    "optionC": "Não, porque é proibido ultrapassar nas pontes.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 92,
+    "question": "Perante este sinal, o motorista deve:",
+    "image": "images/a/q112.jpg",
+    "optionA": "Avançar em primeiro lugar.",
+    "optionB": "Ceder a passagem.",
+    "optionC": "No prazo estipulado pelo IMT.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 93,
+    "question": "Para iniciar o socorro das vítimas é necessária a avaliação desta, através do exame primário, o qual consiste em:",
+    "image": "images/a/q2.jpg",
+    "optionA": "Avaliar se a vítima está consciente/inconsciente.",
+    "optionB": "Avaliar somente a ventilação.",
+    "optionC": "Observar mais detalhadamente e em interrogá-la.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 94,
+    "question": "O exame primário da vítima consiste na:",
+    "image": "images/a/q2.jpg",
+    "optionA": "Observação do diâmetro das pupilas, da coloração, temperatura e grau de humidade da pele.",
+    "optionB": "Verificação em primeiro lugar da existência de ventilação.",
+    "optionC": "Avaliação em primeiro lugar da existência de pulsação.",
+    "optionD": "Avaliação em primeiro lugar do estado de consciência da vítima.",
+    "correctAnswer": "D"
   }
 ]
 
