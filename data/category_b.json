@@ -471,5 +471,65 @@
     "optionC": "Em autoestradas.",
     "optionD": "",
     "correctAnswer": "A"
+  },
+    {
+    "id": 91,
+    "question": "Posso avançar?",
+    "image": "images/a/q1.jpg",
+    "optionA": "Antes do velocípede, mas depois de ceder a passagem ao veículo de tracção animal.",
+    "optionB": "Em simultâneo com o veículo de tracção animal.",
+    "optionC": "Antes do velocípede e do veículo de tracção animal.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+    {
+    "id": 92,
+    "question": "Nesta intersecção pretendo seguir em frente.",
+    "image": "images/a/q1.jpg",
+    "optionA": "Posso avançar.",
+    "optionB": "Devo ceder a passagem ao veículo de tracção animal.",
+    "optionC": "Posso avançar, depois de ceder a passagem ao motociclo.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+    {
+    "id": 93,
+    "question": "Qual deve ser a ordem de passagem nesta intersecção?",
+    "image": "images/a/q1.jpg",
+    "optionA": "Ambulância, veículo pesado, veículo verde e por último o meu veículo.",
+    "optionB": "Ambulância, o meu veículo, o veículo verde e por último o veículo pesado.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+    {
+    "id": 94,
+    "question": "O sinal de mudança de direção para a esquerda, do veículo que segue à frente, pode indicar:",
+    "image": "images/a/q1.jpg",
+    "optionA": "Diminuição de velocidade.",
+    "optionB": "Início de manobra de marcha atrás.",
+    "optionC": "Início de uma ultrapassagem.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+   {
+    "id": 95,
+    "question": "É proibido ultrapassar:",
+    "image": "images/a/q1.jpg",
+    "optionA": "Em lombas ou cruzamentos sem visibilidade.",
+    "optionB": "Quando o veículo é lento.",
+    "optionC": "Em autoestradas.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+   {
+    "id": 96,
+    "question": "É proibido ultrapassar:",
+    "image": "images/a/q1.jpg",
+    "optionA": "Em lombas ou cruzamentos sem visibilidade.",
+    "optionB": "Quando o veículo é lento.",
+    "optionC": "Em autoestradas.",
+    "optionD": "",
+    "correctAnswer": "A"
   }
 ]
