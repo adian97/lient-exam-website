@@ -560,7 +560,7 @@
     "optionB": "Não.",
     "optionC": "",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
 {
     "id": 100,
@@ -570,7 +570,7 @@
     "optionB": "Entre o combustível e o oxigénio do ar (comburente), face a uma fonte de calor.",
     "optionC": "Provocada por uma fonte de energia.",
     "optionD": "Que ocorre em determinados materiais provocado pelo aumento da temperatura.",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
 {
     "id": 101,
@@ -580,7 +580,7 @@
     "optionB": "Não movimentar a vítima, exceto se existir perigo iminente de incêndio, explosão ou qualquer outra situação que ponha em risco a vida da vítima.",
     "optionC": "Não retirar em caso algum a vítima do veículo.",
     "optionD": "Ajudar a vítima a sair do veículo.",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
 {
     "id": 102,
@@ -590,7 +590,7 @@
     "optionB": "Deve ceder passagem.",
     "optionC": "",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
 {
     "id": 103,
@@ -600,7 +600,7 @@
     "optionB": "Sim, porque o velocípede se apresenta à minha esquerda.",
     "optionC": "Não, porque o velocípede é um veículo sem motor.",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "A"
   },
 {
     "id": 104,
@@ -610,7 +610,7 @@
     "optionB": "Meu, porque vou entrar numa rotunda.",
     "optionC": "",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
 {
     "id": 105,
@@ -620,7 +620,7 @@
     "optionB": "Ceder a passagem.",
     "optionC": "",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
 {
     "id": 106,
@@ -630,7 +630,7 @@
     "optionB": "Verificação em primeiro lugar da existência de ventilação.",
     "optionC": "Avaliação em primeiro lugar da existência de pulsação.",
     "optionD": "Avaliação em primeiro lugar do estado de consciência da vítima.",
-    "correctAnswer": "C"
+    "correctAnswer": "D"
   },
 {
     "id": 107,
@@ -640,7 +640,7 @@
     "optionB": "Avaliar somente a ventilação.",
     "optionC": "Observar mais detalhadamente e em interrogá-la.",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "A"
   },
 {
     "id": 108,
@@ -650,7 +650,7 @@
     "optionB": "Ceder a passagem.",
     "optionC": "No prazo estipulado pelo IMT.",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
 {
     "id": 110,
@@ -660,6 +660,6 @@
     "optionB": "Não, porque a realização da manobra pode provocar embaraço para o trânsito.",
     "optionC": "Não, porque é proibido ultrapassar nas pontes.",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "A"
   }
 ]
