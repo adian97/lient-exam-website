@@ -541,5 +541,125 @@
     "optionC": "Deixo de ser obrigado a circular com as luzes de cruzamento (médios) acesas.",
     "optionD": "",
     "correctAnswer": "C"
+  },
+   {
+    "id": 98,
+    "question": "Pode ultrapassar o veículo que circula à frente?",
+    "image": "images/a/q120.jpg",
+    "optionA": "Sim, a manobra é permitida.",
+    "optionB": "Não, devo aguardar que o veículo termine a manobra.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 99,
+    "question": "É permitido ultrapassar neste local?",
+    "image": "images/a/q121.jpg",
+    "optionA": "Sim.",
+    "optionB": "Não.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+{
+    "id": 100,
+    "question": "Fogo é uma reação química:",
+    "image": "images/a/q113.jpg",
+    "optionA": "Que ocorre num determinado local, sempre que o calor seja em excesso.",
+    "optionB": "Entre o combustível e o oxigénio do ar (comburente), face a uma fonte de calor.",
+    "optionC": "Provocada por uma fonte de energia.",
+    "optionD": "Que ocorre em determinados materiais provocado pelo aumento da temperatura.",
+    "correctAnswer": "C"
+  },
+{
+    "id": 101,
+    "question": "Perante uma vítima de acidente o procedimento adequado é:",
+    "image": "images/a/q113.jpg",
+    "optionA": "Remover de imediato a vítima do veículo.",
+    "optionB": "Não movimentar a vítima, exceto se existir perigo iminente de incêndio, explosão ou qualquer outra situação que ponha em risco a vida da vítima.",
+    "optionC": "Não retirar em caso algum a vítima do veículo.",
+    "optionD": "Ajudar a vítima a sair do veículo.",
+    "correctAnswer": "C"
+  },
+{
+    "id": 102,
+    "question": "Qualquer veículo que saia de uma passagem de nível:",
+    "image": "images/a/q122.jpg",
+    "optionA": "Não tem que ceder passagem.",
+    "optionB": "Deve ceder passagem.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+{
+    "id": 103,
+    "question": "O condutor do velocípede deve ceder a passagem?",
+    "image": "images/a/q123.jpg",
+    "optionA": "Não, porque o velocípede circula na rotunda.",
+    "optionB": "Sim, porque o velocípede se apresenta à minha esquerda.",
+    "optionC": "Não, porque o velocípede é um veículo sem motor.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+{
+    "id": 104,
+    "question": "O dever de ceder a passagem é:",
+    "image": "images/a/q124.jpg",
+    "optionA": "Do condutor do velocípede, porque conduz um veículo sem motor.",
+    "optionB": "Meu, porque vou entrar numa rotunda.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+{
+    "id": 105,
+    "question": "Perante este sinal, o motorista deve:",
+    "image": "images/a/q125.jpg",
+    "optionA": "Avançar em primeiro lugar.",
+    "optionB": "Ceder a passagem.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+{
+    "id": 106,
+    "question": "O exame primário da vítima consiste na:",
+    "image": "images/a/q113.jpg",
+    "optionA": "Observação do diâmetro das pupilas, da coloração, temperatura e grau de humidade da pele.",
+    "optionB": "Verificação em primeiro lugar da existência de ventilação.",
+    "optionC": "Avaliação em primeiro lugar da existência de pulsação.",
+    "optionD": "Avaliação em primeiro lugar do estado de consciência da vítima.",
+    "correctAnswer": "C"
+  },
+{
+    "id": 107,
+    "question": "Para iniciar o socorro das vítimas é necessária a avaliação desta, através do exame primário, o qual consiste em:",
+    "image": "images/a/q113.jpg",
+    "optionA": "Avaliar se a vítima está consciente/inconsciente.",
+    "optionB": "Avaliar somente a ventilação.",
+    "optionC": "Observar mais detalhadamente e em interrogá-la.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+{
+    "id": 108,
+    "question": "Perante este sinal, o motorista deve:",
+    "image": "images/a/q126.jpg",
+    "optionA": "Avançar em primeiro lugar.",
+    "optionB": "Ceder a passagem.",
+    "optionC": "No prazo estipulado pelo IMT.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+{
+    "id": 110,
+    "question": "Estou a ser corretamente ultrapassado?",
+    "image": "images/a/q127.jpg",
+    "optionA": "Sim, estou.",
+    "optionB": "Não, porque a realização da manobra pode provocar embaraço para o trânsito.",
+    "optionC": "Não, porque é proibido ultrapassar nas pontes.",
+    "optionD": "",
+    "correctAnswer": "C"
   }
 ]
