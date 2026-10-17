@@ -661,5 +661,15 @@
     "optionC": "Não, porque é proibido ultrapassar nas pontes.",
     "optionD": "",
     "correctAnswer": "A"
+  },
+   {
+    "id": 111,
+    "question": "Por que lado da placa de refúgio posso circular?",
+    "image": "images/a/q129.jpg",
+    "optionA": "Por qualquer dos lados.",
+    "optionB": "Apenas pelo lado direito.",
+    "optionC": "Apenas pelo lado esquerdo",
+    "optionD": "",
+    "correctAnswer": "C"
   }
 ]
