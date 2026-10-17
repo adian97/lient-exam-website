@@ -643,16 +643,6 @@
     "correctAnswer": "A"
   },
 {
-    "id": 108,
-    "question": "Perante este sinal, o motorista deve:",
-    "image": "images/a/q126.jpg",
-    "optionA": "Avançar em primeiro lugar.",
-    "optionB": "Ceder a passagem.",
-    "optionC": "No prazo estipulado pelo IMT.",
-    "optionD": "",
-    "correctAnswer": "B"
-  },
-{
     "id": 110,
     "question": "Estou a ser corretamente ultrapassado?",
     "image": "images/a/q127.jpg",
