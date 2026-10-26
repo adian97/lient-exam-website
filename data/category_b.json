@@ -587,5 +587,15 @@
     "optionC": "Apenas pelo lado esquerdo",
     "optionD": "",
     "correctAnswer": "C"
+  },
+    {
+    "id": 112,
+    "question": "Posso ultrapassar pela direita o veículo de mercadorias?",
+    "image": "images/a/q139.jpg",
+    "optionA": "Sim, posso.",
+    "optionB": "ANão, a ultrapassagem pela direita é proibida.",
+    "optionC": "",
+    "optionD": "",
+    "correctAnswer": "A"
   }
 ]
