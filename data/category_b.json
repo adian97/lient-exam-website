@@ -104,18 +104,6 @@
     "difficulty": "EASY"
   },
   {
-    "id": 76,
-    "category": "CATEGORY A",
-    "question": "Na comunicação com os passageiros é importante:",
-    "image": "images/a/q76.jpg",
-    "optionA": "Fazer perguntas durante toda a conversa.",
-    "optionB": "Ouvir para compreender.",
-    "optionC": "Falar rapidamente para terminar a conversa.",
-    "optionD": "",
-    "correctAnswer": "B",
-    "difficulty": "EASY"
-  },
-  {
     "id": 77,
     "category": "CATEGORY A",
     "question": "Em caso de queimadura deve:",
@@ -232,16 +220,6 @@
     "correctAnswer": "A"
   },
   {
-    "id": 62,
-    "question": "Qual a velocidade máxima permitida a um automóvel ligeiro dentro de uma localidade?",
-    "image": "images/a/q9.jpg",
-    "optionA": "50 km/h",
-    "optionB": "60 km/h",
-    "optionC": "90 km/h",
-    "optionD": "",
-    "correctAnswer": "A"
-  },
-  {
     "id": 63,
     "question": "O que deve fazer perante o [sinal]?",
     "image": "images/a/q95.jpg",
@@ -260,36 +238,6 @@
     "optionC": "As ordens da polícia.",
     "optionD": "",
     "correctAnswer": "C"
-  },
-  {
-    "id": 65,
-    "question": "Em caso de queimadura deve:",
-    "image": "images/a/q12.jpg",
-    "optionA": "Lavar a zona afetada com água quente.",
-    "optionB": "Furar as bolhas existentes.",
-    "optionC": "Evitar tocar diretamente na área queimada.",
-    "optionD": "",
-    "correctAnswer": "C"
-  },
-  {
-    "id": 66,
-    "question": "Uma condução defensiva é:",
-    "image": "images/a/q13.jpg",
-    "optionA": "Estar atento aos outros condutores, antecipando situações de risco.",
-    "optionB": "Conduzir sempre a alta velocidade.",
-    "optionC": "",
-    "optionD": "",
-    "correctAnswer": "A"
-  },
-  {
-    "id": 67,
-    "question": "Para sinalizar corretamente o local de um acidente, o motorista deve:",
-    "image": "images/a/q14.jpg",
-    "optionA": "Ligar as luzes de perigo, vestir o colete refletor e colocar o triângulo de pré-sinalização de perigo.",
-    "optionB": "Abandonar o local do acidente.",
-    "optionC": "",
-    "optionD": "",
-    "correctAnswer": "A"
   },
   {
     "id": 68,
@@ -353,17 +301,6 @@
   "difficulty": "EASY"
 },
 {
-  "id": 81,
-  "question": "Em rotundas, pode circular na via mais à direita:",
-  "image": "images/a/q81.jpg",
-  "optionA": "Apenas para sair na primeira saída.",
-  "optionB": "Sempre, independentemente da saída.",
-  "optionC": "",
-  "optionD": "",
-  "correctAnswer": "A",
-  "difficulty": "EASY"
-},
-{
   "id": 82,
   "question": "Numa ultrapassagem, o motorista deve voltar à sua via de trânsito:",
   "image": "images/a/q82.jpg",
@@ -372,17 +309,6 @@
   "optionC": "Assim que o veículo ultrapassado fique visível no retrovisor.",
   "optionD": "",
   "correctAnswer": "C",
-  "difficulty": "EASY"
-},
-{
-  "id": 83,
-  "question": "É permitido ultrapassar em curvas com visibilidade reduzida?",
-  "image": "images/a/q83.jpg",
-  "optionA": "Sim, é permitido.",
-  "optionB": "É proibido ultrapassar em curvas com visibilidade reduzida.",
-  "optionC": "Passar rapidamente antes que outro veículo chegue.",
-  "optionD": "",
-  "correctAnswer": "B",
   "difficulty": "EASY"
 },
 {
