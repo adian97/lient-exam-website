@@ -1,1 +1,13 @@
-
+[
+  {
+    "id": 1,
+    "question": "Your question here?",
+    "image": "",
+    "optionA": "Answer A",
+    "optionB": "Answer B",
+    "optionC": "Answer C",
+    "optionD": "",
+    "correctAnswer": "B",
+    "questionExplanation": "Your explanation here."
+  }
+]
