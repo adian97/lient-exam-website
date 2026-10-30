@@ -7,7 +7,7 @@
     "optionB": "Aproximar o veículo do eixo da faixa de rodagem, moderando a velocidade.",
     "optionC": "Adequar a velocidade às características da via.",
     "optionD": "",
-    "correctAnswer": "C",
+    "correctAnswer": "C"
   },
   {
     "id": 114,
@@ -17,7 +17,7 @@
     "optionB": "Em que o pavimento pode tornar-se escorregadio.",
     "optionC": "Onde a circulação se encontra obstruída por veículos.",
     "optionD": "",
-    "correctAnswer": "C",
+    "correctAnswer": "C"
   },
   {
     "id": 115,
@@ -27,7 +27,7 @@
     "optionB": "Porque a via se encontra em mau estado de conservação.",
     "optionC": "Porque a via não está sinalizada.",
     "optionD": "",
-    "correctAnswer": "B",
+    "correctAnswer": "B"
   },
   {
     "id": 116,
@@ -37,7 +37,7 @@
     "optionB": "Manter a velocidade.",
     "optionC": "Diminuir a velocidade.",
     "optionD": "",
-    "correctAnswer": "B",
+    "correctAnswer": "B"
   },
  {
     "id": 117,
@@ -47,7 +47,7 @@
     "optionB": "Ceder passagem ao veículo da direita e ao veículo da frente.",
     "optionC": "Avançar em primeiro lugar, porque não mudo de direcção.",
     "optionD": "",
-    "correctAnswer": "A",
+    "correctAnswer": "A"
   },
   {
     "id": 118,
@@ -57,7 +57,7 @@
     "optionB": "De piso escorregadio.",
     "optionC": "De elevado volume de trânsito.",
     "optionD": "De que a via está obstruída por veículos acidentados.",
-    "correctAnswer": "B",
+    "correctAnswer": "B"
   },
   {
     "id": 119,
@@ -67,7 +67,7 @@
     "optionB": "À cilindrada do veículo que conduzo.",
     "optionC": "À intensidade do trânsito e às características da via.",
     "optionD": "",
-    "correctAnswer": "A",
+    "correctAnswer": "A"
   },
   {
     "id": 120,
@@ -77,7 +77,7 @@
     "optionB": "Devo reduzir a velocidade e cumprir a regra geral de cedência de passagem.",
     "optionC": "Nunca tenho que ceder passagem.",
     "optionD": "",
-    "correctAnswer": "C",
+    "correctAnswer": "C"
   },
   {
     "id": 121,
@@ -87,6 +87,6 @@
     "optionB": "Descida perigosa.",
     "optionC": "Subida acentuada.",
     "optionD": "",
-    "correctAnswer": "B",
+    "correctAnswer": "B"
    }
   ]
