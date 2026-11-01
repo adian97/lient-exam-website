@@ -92,7 +92,7 @@
   {
     "id": 122,
     "question": "A distância indicada no sinal de aproximação de saída é relativa:",
-    "image": "images/a/q140.jpg",
+    "image": "images/a/q156.jpg",
     "optionA": "Ao início da próxima localidade.",
     "optionB": "Ao início da via de abrandamento ou de saída.",
     "optionC": "Ao próximo sinal de indicação de saída.",
@@ -102,7 +102,7 @@
 {
     "id": 123,
     "question": "Quem pode avançar em primeiro lugar nesta intersecção?",
-    "image": "images/a/q140.jpg",
+    "image": "images/a/q155.jpg",
     "optionA": "Eu.",
     "optionB": "O condutor do veículo afecto à prestação de socorro.",
     "optionC": "O condutor que primeiro chegou à intersecção.",
@@ -112,7 +112,7 @@
 {
     "id": 124,
     "question": "Perante a sinalização vertical é informado que a 250 metros vou encontrar:",
-    "image": "images/a/q140.jpg",
+    "image": "images/a/q154.jpg",
     "optionA": "Uma escapatória.",
     "optionB": "Uma subida perigosa à direita.",
     "optionC": "Um atalho.",
@@ -122,7 +122,7 @@
 {
     "id": 125,
     "question": "Que precauções devo adoptar no local em que me encontro?",
-    "image": "images/a/q140.jpg",
+    "image": "images/a/q153.jpg",
     "optionA": "Circular com velocidade moderada.",
     "optionB": "Aumentar a distância de paragem.",
     "optionC": "Travar o mais rapidamente possível.",
@@ -132,7 +132,7 @@
 {
     "id": 126,
     "question": "Ao circular nesta via de trânsito, como devo proceder em caso de súbita redução de velocidade?",
-    "image": "images/a/q140.jpg",
+    "image": "images/a/q152.jpg",
     "optionA": "Estou obrigado a utilizar as luzes de perigo.",
     "optionB": "Estou obrigado a utilizar as luzes de perigo mas apenas se existirem condições meteorológicas ou ambientais que tornem a visibilidade insuficiente.",
     "optionC": "Devo transitar pela berma.",
@@ -142,11 +142,41 @@
 {
     "id": 127,
     "question": "Ao circular nesta via e perante este sinal, fico a saber que:",
-    "image": "images/a/q140.jpg",
+    "image": "images/a/q150.jpg",
     "optionA": "A 500 metros, vou ter informação sobre onde se encontra um posto de abastecimento de combustível.",
     "optionB": "Se encontra a 500 metros um posto de abastecimento de combustível com GPL.",
     "optionC": "Se encontra a 500 metros um posto de abastecimento de combustível.",
     "optionD": "",
     "correctAnswer": "C"
+  },
+  {
+    "id": 128,
+    "question": "Sou advertido(a) para a situação de perigo que:",
+    "image": "images/a/q140.jpg",
+    "optionA": "Se encontra a 1,45 km.",
+    "optionB": "Irá manter-se numa extensão de 1,3 km.",
+    "optionC": "Tem início dentro de 1,3 km.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 129,
+    "question": "O sinal vertical de fundo azul indica:",
+    "image": "images/a/q140.jpg",
+    "optionA": "Via de sentido único.",
+    "optionB": "Sentido obrigatório.",
+    "optionC": "Subida perigosa.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 130,
+    "question": "O que deve fazer o condutor do veículo que circula imediatamente à minha frente?",
+    "image": "images/a/q140.jpg",
+    "optionA": "Aumentar a distância de segurança.",
+    "optionB": "Parar para permitir que o condutor do veículo branco termine a manobra.",
+    "optionC": "Aumentar a velocidade.",
+    "optionD": "",
+    "correctAnswer": "A"
   }
   ]
