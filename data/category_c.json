@@ -88,5 +88,65 @@
     "optionC": "Subida acentuada.",
     "optionD": "",
     "correctAnswer": "B"
-   }
+   },
+  {
+    "id": 122,
+    "question": "A distância indicada no sinal de aproximação de saída é relativa:",
+    "image": "images/a/q140.jpg",
+    "optionA": "Ao início da próxima localidade.",
+    "optionB": "Ao início da via de abrandamento ou de saída.",
+    "optionC": "Ao próximo sinal de indicação de saída.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 123,
+    "question": "Quem pode avançar em primeiro lugar nesta intersecção?",
+    "image": "images/a/q140.jpg",
+    "optionA": "Eu.",
+    "optionB": "O condutor do veículo afecto à prestação de socorro.",
+    "optionC": "O condutor que primeiro chegou à intersecção.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 124,
+    "question": "Perante a sinalização vertical é informado que a 250 metros vou encontrar:",
+    "image": "images/a/q140.jpg",
+    "optionA": "Uma escapatória.",
+    "optionB": "Uma subida perigosa à direita.",
+    "optionC": "Um atalho.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 125,
+    "question": "Que precauções devo adoptar no local em que me encontro?",
+    "image": "images/a/q140.jpg",
+    "optionA": "Circular com velocidade moderada.",
+    "optionB": "Aumentar a distância de paragem.",
+    "optionC": "Travar o mais rapidamente possível.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 126,
+    "question": "Ao circular nesta via de trânsito, como devo proceder em caso de súbita redução de velocidade?",
+    "image": "images/a/q140.jpg",
+    "optionA": "Estou obrigado a utilizar as luzes de perigo.",
+    "optionB": "Estou obrigado a utilizar as luzes de perigo mas apenas se existirem condições meteorológicas ou ambientais que tornem a visibilidade insuficiente.",
+    "optionC": "Devo transitar pela berma.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 127,
+    "question": "Ao circular nesta via e perante este sinal, fico a saber que:",
+    "image": "images/a/q140.jpg",
+    "optionA": "A 500 metros, vou ter informação sobre onde se encontra um posto de abastecimento de combustível.",
+    "optionB": "Se encontra a 500 metros um posto de abastecimento de combustível com GPL.",
+    "optionC": "Se encontra a 500 metros um posto de abastecimento de combustível.",
+    "optionD": "",
+    "correctAnswer": "C"
+  }
   ]
