@@ -55,20 +55,7 @@
 
 </div>
 
-<script>
-function scaleExam() {
-    const exam = document.querySelector('.exam-container');
 
-    const scale = Math.min(
-        window.innerWidth / 1366,
-        window.innerHeight / 768
-    );
-
-    exam.style.transform = `scale(${scale})`;
-}
-
-window.addEventListener('resize', scaleExam);
-scaleExam();
 </script>
 
 <script src="js/exam.js"></script>
