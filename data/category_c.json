@@ -178,5 +178,35 @@
     "optionC": "Aumentar a velocidade.",
     "optionD": "",
     "correctAnswer": "A"
+  },
+  {
+    "id": 131,
+    "question": "A que tipo de peso se refere o sinal?",
+    "image": "images/a/q159.jpg",
+    "optionA": "Peso total.",
+    "optionB": "Tara.",
+    "optionC": "Peso bruto.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 132,
+    "question": "Perante o sinal de stop devo:",
+    "image": "images/a/q160.jpg",
+    "optionA": "Parar e ceder a passagem aos veículos que se apresentem pela direita.",
+    "optionB": "Ceder a passagem sem necessidade de parar.",
+    "optionC": "Parar e ceder a passagem aos veículos que circulem na via em que vou entrar.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 133,
+    "question": "Qual a indicação que este sinal vertical dá aos condutores?",
+    "image": "images/a/q161.jpg",
+    "optionA": "Proibição de transitar com as luzes de cruzamento acesas.",
+    "optionB": "Obrigação de transitar com as luzes de estrada acesas.",
+    "optionC": "Fim da obrigação de transitar com as luzes de cruzamento acesas.",
+    "optionD": "",
+    "correctAnswer": "B"
   }
   ]
