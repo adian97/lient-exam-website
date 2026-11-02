@@ -57,7 +57,7 @@
     "optionB": "De piso escorregadio.",
     "optionC": "De elevado volume de trânsito.",
     "optionD": "De que a via está obstruída por veículos acidentados.",
-    "correctAnswer": "B"
+    "correctAnswer": "C"
   },
   {
     "id": 119,
@@ -67,7 +67,7 @@
     "optionB": "À cilindrada do veículo que conduzo.",
     "optionC": "À intensidade do trânsito e às características da via.",
     "optionD": "",
-    "correctAnswer": "A"
+    "correctAnswer": "C"
   },
   {
     "id": 120,
@@ -77,7 +77,7 @@
     "optionB": "Devo reduzir a velocidade e cumprir a regra geral de cedência de passagem.",
     "optionC": "Nunca tenho que ceder passagem.",
     "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
   {
     "id": 121,
@@ -87,7 +87,7 @@
     "optionB": "Descida perigosa.",
     "optionC": "Subida acentuada.",
     "optionD": "",
-    "correctAnswer": "B"
+    "correctAnswer": "C"
    },
   {
     "id": 122,
@@ -167,7 +167,7 @@
     "optionB": "Sentido obrigatório.",
     "optionC": "Subida perigosa.",
     "optionD": "",
-    "correctAnswer": "B"
+    "correctAnswer": "A"
   },
 {
     "id": 130,
