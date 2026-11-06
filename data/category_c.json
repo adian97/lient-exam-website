@@ -198,5 +198,145 @@
     "optionC": "Fim da obrigação de transitar com as luzes de cruzamento acesas.",
     "optionD": "",
     "correctAnswer": "C"
+  },
+{
+    "id": 134,
+    "question": "O sinal de obrigação de contornar placa ou obstáculo:",
+    "image": "images/a/q161.jpg",
+    "optionA": "Aconselha-me a contornar a placa ou obstáculo pelo lado indicado pela seta.",
+    "optionB": "Obriga-me a contornar a placa ou obstáculo pelo lado indicado pela seta.",
+    "optionC": "Permite-me contornar a placa por qualquer dos lados.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 135,
+    "question": "Perante este sinal, podem realizar a manobra de ultrapassagem:",
+    "image": "images/a/q16.jpg",
+    "optionA": "Os motociclos.",
+    "optionB": "Só os automóveis pesados.",
+    "optionC": "Todos os veículos, excepto os motociclos e ciclomotores.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 136,
+    "question": "O sinal de perigo alerta-me para a possibilidade de encontrar:",
+    "image": "images/a/q161.jpg",
+    "optionA": "Uma escola.",
+    "optionB": "Pista obrigatória para peões.",
+    "optionC": "Peões a atravessar a faixa de rodagem.",
+    "optionD": "",
+    "correctAnswer": "C"
+  },
+{
+    "id": 137,
+    "question": "Nesta situação, encontrando-se o meu veículo mais próximo do local em que o cruzamento é possível, quem deve recuar?",
+    "image": "images/a/q161.jpg",
+    "optionA": "Eu.",
+    "optionB": "O condutor do outro veículo.",
+    "optionC": "O condutor que tiver chegado primeiro à passagem estreita.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 138,
+    "question": "Perante este sinal, podem realizar a manobra de ultrapassagem:",
+    "image": "images/a/q161.jpg",
+    "optionA": "Os motociclos.",
+    "optionB": "Só os automóveis pesados.",
+    "optionC": "Todos os veículos, excepto os motociclos e ciclomotores.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 139,
+    "question": "Neste local a velocidade máxima legalmente permitida é de:",
+    "image": "images/a/q161.jpg",
+    "optionA": "50 km/h.",
+    "optionB": "90 km/h.",
+    "optionC": "100 km/h.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 140,
+    "question": "Neste local de declive acentuado, devo moderar a velocidade utilizando para o efeito:",
+    "image": "images/a/q161.jpg",
+    "optionA": "Principalmente o motor através da caixa de velocidades.",
+    "optionB": "Apenas o travão de serviço.",
+    "optionC": "O motor e o travão de estacionamento.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 141,
+    "question": "Nesta situação, se pretender ultrapassar o veículo que circula à minha frente devo:",
+    "image": "images/a/q161.jpg",
+    "optionA": "Certificar-me que posso retomar à direita sem perigo para aqueles que aí transitam.",
+    "optionB": "Efectuar a manobra pelo lado direito da faixa de rodagem.",
+    "optionC": "Manter uma distância de segurança em relação ao veículo da frente não inferior a 50 metros.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 142,
+    "question": "Se pretender ultrapassar o veículo que circula à minha frente, como devo efectuar a manobra?",
+    "image": "images/a/q161.jpg",
+    "optionA": "Pelo lado direito.",
+    "optionB": "Pelo lado esquerdo.",
+    "optionC": "Posso ultrapassar pelo lado direito ou esquerdo, desde que sinalize a manobra.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 143,
+    "question": "Este sinal vertical significa:",
+    "image": "images/a/q161.jpg",
+    "optionA": "Trânsito proibido a veículos de peso por eixo superior a 3,5 t.",
+    "optionB": "Trânsito proibido a veículos de peso total superior a 3,5 t.",
+    "optionC": "Trânsito proibido a veículos de largura superior à indicada no sinal.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 144,
+    "question": "Qual é a ordem correta de passagem na interseção, atendendo a que todos os veículos seguem em frente?",
+    "image": "images/a/q161.jpg",
+    "optionA": "Automóvel pesado, o velocípede e por último, o meu veículo.",
+    "optionB": "O meu veículo e o automóvel pesado em simultâneo e por último, o velocípede.",
+    "optionC": "O meu veículo, o automóvel pesado e por último, o velocípede.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 145,
+    "question": "Os veículos, quando transitam em missão urgente de socorro, podem:",
+    "image": "images/a/q161.jpg",
+    "optionA": "Exceder os limites de velocidade quando a situação o exigir.",
+    "optionB": "Deixar de parar perante a luz vermelha dos sinais luminosos.",
+    "optionC": "Não parar perante um sinal 'STOP'.",
+    "optionD": "",
+    "correctAnswer": "A"
+  },
+{
+    "id": 146,
+    "question": "Se pretender ultrapassar o veículo que circula à minha frente, como devo efectuar a manobra?",
+    "image": "images/a/q161.jpg",
+    "optionA": "Pelo lado direito.",
+    "optionB": "Pelo lado esquerdo.",
+    "optionC": "Posso ultrapassar pelo lado direito ou esquerdo, desde que sinalize a manobra.",
+    "optionD": "",
+    "correctAnswer": "B"
+  },
+{
+    "id": 147,
+    "question": "Atendendo a que nenhum dos veículos que se encontra neste cruzamento pretende mudar de direção, qual o veículo que passa em primeiro lugar?",
+    "image": "images/a/q161.jpg",
+    "optionA": "O veículo de cor preta.",
+    "optionB": "O veículo cinzento.",
+    "optionC": "O meu veículo.",
+    "optionD": "",
+    "correctAnswer": "B"
   }
   ]
