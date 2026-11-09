@@ -419,16 +419,6 @@
     "correctAnswer": "B"
   },
     {
-    "id": 93,
-    "question": "Qual deve ser a ordem de passagem nesta intersecção?",
-    "image": "images/a/q116.jpg",
-    "optionA": "Ambulância, veículo pesado, veículo verde e por último o meu veículo.",
-    "optionB": "Ambulância, o meu veículo, o veículo verde e por último o veículo pesado.",
-    "optionC": "",
-    "optionD": "",
-    "correctAnswer": "B"
-  },
-    {
     "id": 94,
     "question": "O sinal de mudança de direção para a esquerda, do veículo que segue à frente, pode indicar:",
     "image": "images/a/q118.jpg",
@@ -456,17 +446,7 @@
     "optionB": "Devo ultrapassar o outro condutor pela direita, porque tenho espaço livre.",
     "optionC": "Devo aguardar que o outro condutor termine a manobra, porque não posso ultrapassar pela direita.",
     "optionD": "",
-    "correctAnswer": "C"
-  },
-   {
-    "id": 97,
-    "question": "O sinal vertical nesta via pública indica-me que:",
-    "image": "images/a/q119.jpg",
-    "optionA": "Devo utilizar apenas as luzes máximas quando me cruzo com outros veículos.",
-    "optionB": "Sou obrigado a circular com as luzes de cruzamento (médios) acesas.",
-    "optionC": "Deixo de ser obrigado a circular com as luzes de cruzamento (médios) acesas.",
-    "optionD": "",
-    "correctAnswer": "C"
+    "correctAnswer": "B"
   },
    {
     "id": 98,
@@ -496,16 +476,6 @@
     "optionB": "Entre o combustível e o oxigénio do ar (comburente), face a uma fonte de calor.",
     "optionC": "Provocada por uma fonte de energia.",
     "optionD": "Que ocorre em determinados materiais provocado pelo aumento da temperatura.",
-    "correctAnswer": "B"
-  },
-{
-    "id": 101,
-    "question": "Perante uma vítima de acidente o procedimento adequado é:",
-    "image": "images/a/q113.jpg",
-    "optionA": "Remover de imediato a vítima do veículo.",
-    "optionB": "Não movimentar a vítima, exceto se existir perigo iminente de incêndio, explosão ou qualquer outra situação que ponha em risco a vida da vítima.",
-    "optionC": "Não retirar em caso algum a vítima do veículo.",
-    "optionD": "Ajudar a vítima a sair do veículo.",
     "correctAnswer": "B"
   },
 {
@@ -559,16 +529,6 @@
     "correctAnswer": "D"
   },
 {
-    "id": 107,
-    "question": "Para iniciar o socorro das vítimas é necessária a avaliação desta, através do exame primário, o qual consiste em:",
-    "image": "images/a/q113.jpg",
-    "optionA": "Avaliar se a vítima está consciente/inconsciente.",
-    "optionB": "Avaliar somente a ventilação.",
-    "optionC": "Observar mais detalhadamente e em interrogá-la.",
-    "optionD": "",
-    "correctAnswer": "A"
-  },
-{
     "id": 110,
     "question": "Estou a ser corretamente ultrapassado?",
     "image": "images/a/q127.jpg",
@@ -577,16 +537,6 @@
     "optionC": "Não, porque é proibido ultrapassar nas pontes.",
     "optionD": "",
     "correctAnswer": "A"
-  },
-   {
-    "id": 111,
-    "question": "Por que lado da placa de refúgio posso circular?",
-    "image": "images/a/q129.jpg",
-    "optionA": "Por qualquer dos lados.",
-    "optionB": "Apenas pelo lado direito.",
-    "optionC": "Apenas pelo lado esquerdo",
-    "optionD": "",
-    "correctAnswer": "B"
   },
     {
     "id": 112,
