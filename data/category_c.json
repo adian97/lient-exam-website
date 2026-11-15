@@ -210,16 +210,6 @@
     "correctAnswer": "B"
   },
 {
-    "id": 135,
-    "question": "Perante este sinal, podem realizar a manobra de ultrapassagem:",
-    "image": "images/a/q172.jpg",
-    "optionA": "Os motociclos.",
-    "optionB": "Só os automóveis pesados.",
-    "optionC": "Todos os veículos, excepto os motociclos e ciclomotores.",
-    "optionD": "",
-    "correctAnswer": "A"
-  },
-{
     "id": 136,
     "question": "O sinal de perigo alerta-me para a possibilidade de encontrar:",
     "image": "images/a/q173.jpg",
