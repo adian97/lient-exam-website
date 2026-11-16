@@ -389,5 +389,25 @@
     "optionC": "Aos veículos de mercadorias com mais de 12 toneladas.",
     "optionD": "Aos veículos com altura superior a 3,5 metros.",
     "correctAnswer": "D"
+  },
+  {
+    "id": 156,
+    "question": "Qual deve ser o último condutor a passar?",
+    "image": "images/a/q179.jpg",
+    "optionA": "O que está à minha frente.",
+    "optionB": "O do veículo de tracção animal.",
+    "optionC": "O da esquerda.",
+    "optionD": "Eu.",
+    "correctAnswer": "D"
+  },
+{
+    "id": 157,
+    "question": "Este sinal vertical indica-me:",
+    "image": "images/a/q180.jpg",
+    "optionA": "Curva perigosa à direita.",
+    "optionB": "Outros perigos.",
+    "optionC": "Troço de via com perigo de projecção de gravilha.",
+    "optionD": "Aproximação de uma via em que devo ceder a passagem.",
+    "correctAnswer": "B"
   }
   ]
