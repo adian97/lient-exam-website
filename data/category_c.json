@@ -409,5 +409,15 @@
     "optionC": "Troço de via com perigo de projecção de gravilha.",
     "optionD": "Aproximação de uma via em que devo ceder a passagem.",
     "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "question": "Qual a indicação que este sinal dá aos condutores?",
+    "image": "images/a/q181.jpg",
+    "optionA": "A existência de um hospital.",
+    "optionB": "A existência de um posto de primeiros socorros.",
+    "optionC": "Proximidade de um heliporto.",
+    "optionD": "",
+    "correctAnswer": "A"
   }
   ]
