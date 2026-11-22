@@ -419,5 +419,15 @@
     "optionC": "Proximidade de um heliporto.",
     "optionD": "",
     "correctAnswer": "A"
+  },
+  {
+    "id": 159,
+    "question": "Qual deve ser a ordem de passagem nesta situação?",
+    "image": "images/a/q182.jpg",
+    "optionA": "O meu veículo e o automóvel ligeiro em simultâneo, seguidos do motociclo e do velocípede em simultâneo.",
+    "optionB": "O meu veículo em primeiro lugar seguido do motociclo e em último lugar o automóvel ligeiro.",
+    "optionC": "O velocípede e o automóvel ligeiro em simultâneo, seguidos do motociclo e do meu veículo em simultâneo.",
+    "optionD": "",
+    "correctAnswer": "A"
   }
   ]
